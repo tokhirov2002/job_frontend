@@ -1,10 +1,4 @@
-import { Routes, Route, BrowserRouter } from "react-router-dom";
-import Home from "./components/Home";
-import Clients from "./components/Clients";
-import About from "./components/About";
-import Blog from "./components/blog";
-import Community from "./components/Community";
-import AuthModals from "./components/AuthModals";
+
 
 
 
